@@ -1,0 +1,4 @@
+남친/NNCG	남친/NNPN
+여친/NNCG	여친/NNPC
+다/NNCG	다/NNMK
+마/NNCG	마/NNSP

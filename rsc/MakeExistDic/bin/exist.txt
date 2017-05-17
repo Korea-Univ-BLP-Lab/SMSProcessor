@@ -1,0 +1,12 @@
+난	나/NPP+ㄴ/PX
+나	나/NPP
+낼	내일/NNCG
+내일	내일/NNCG
+내일은	내일/NNCG+은/PX
+안	안/AA
+가	가/VV+아/EFC
+해	하/VV+아/EFC
+와	오/VV+아/EFC
+온대	오/VV+ㄴ대/EFF
+어떠냐	어떻/VJ+냐/EFF
+아니	알/VV+니/EFF

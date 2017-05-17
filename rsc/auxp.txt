@@ -1,0 +1,34 @@
+AUXP -> EP
+AUXP -> EFC VX
+AUXP -> EFC+PS VX
+AUXP -> EFC+PO VX
+AUXP -> EFC+PX VX
+AUXP -> EFC+PX+PX VX
+AUXP -> EFC+PX VX
+AUXP -> EFC+PX+VX
+AUXP -> EFC+VX
+AUXP -> EFC NNB+I
+AUXP -> EFD NNB_것|셈|뿐|터|따름|지경|법|모양|거+I
+AUXP -> EFD NNB_것|셈|뿐|터|따름|지경|법|모양|거+XSNN+I
+AUXP -> EFD NNB_수|바|데|리 VJ_있|없
+AUXP -> EFD NNB_수|바|데|리+PS VJ_있|없
+AUXP -> EFD NNB_수|바|데|리+PX VJ_있|없
+AUXP -> EFD NNB_수|바|데|리+PX VJ_있|없
+AUXP -> EFD NNB_수|바|데|리+PX+PC VJ_있|없
+AUXP -> EFD NNB_수|바|데|리+PX+PX VJ_있|없
+AUXP -> EFD NNB_것 VJ_같
+AUXP -> EFD NNB_것+PX VJ_같
+AUXP -> EFD NNB_거+PC VJ_같
+AUXP -> EFD NNB_거+PS VJ_같
+AUXP -> EFD NNB_뿐 VJ_아니
+AUXP -> EFD NNB_뿐+PX VJ_아니
+AUXP -> EFD NNB_뿐+PX VJ_아니
+AUXP -> EFD NNB_뿐+PX+PC VJ_아니
+AUXP -> EFN_기 NNB_때문+I
+AUXP -> EFN_기|게 NNB_마련+I
+AUXP -> EFD_은|는|ㄴ|ㄹ|을|를 VX
+AUXP -> EFN_기+PX VX_하
+AUXP -> EFN_기+PX+PX VX_하
+AUXP -> EFN_기+PX VX_하
+AUXP -> EFN_기+PA VX_하
+AUXP -> EFN_기+PX pvg_하
